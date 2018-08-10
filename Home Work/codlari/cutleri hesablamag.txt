@@ -1,0 +1,6 @@
+var a=10
+var cem=0
+for(i=100;i>a;i-=2){
+  cem=cem + i
+}
+console.log(cem)

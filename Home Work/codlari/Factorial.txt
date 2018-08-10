@@ -1,0 +1,26 @@
+function FirstFactorial(n)
+ { 
+
+
+    if(n>0 && n<=1)
+{
+
+      return 1;
+  
+}else
+{
+  
+   return n *  FirstFactorial(n - 1)
+ 
+ }
+  
+   
+}
+
+   
+
+FirstFactorial(8); 
+
+
+
+cavab:8!=8!*7!*6!*5!*4!*3!*2!*1!                          

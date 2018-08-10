@@ -1,0 +1,19 @@
+function PrimeTime(n) { 
+
+
+  if(n>0 && n<100){
+
+      return true; 
+
+  }else{
+  
+    return false;
+ 
+ }
+  
+         
+
+}
+   
+
+PrimeTime(99);  
